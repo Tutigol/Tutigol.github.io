@@ -1,0 +1,35 @@
+body
+{
+    background-color: #1515b9;
+}
+
+img
+{
+   display: block;
+   margin: auto;
+  
+}
+
+iframe{
+    display: block;
+    margin: auto;
+}
+h1
+{
+    text-align: center;
+    background-color: darkblue;
+    color: white
+}
+h2
+{
+    background-color: darkred;
+    color: darkblue;
+}
+h3
+{
+color: white;
+}
+h4
+{
+color: white;
+}
